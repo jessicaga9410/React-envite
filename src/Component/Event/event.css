@@ -1,0 +1,21 @@
+.event-page{
+position: absolute;
+width: 333px;
+height: 37px;
+left: 240px;
+top: 194px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 55px;
+display: flex;
+align-items: center;
+
+color: #240D57;
+}
+
+img{ 
+    width:50%;
+}
